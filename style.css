@@ -1,0 +1,40 @@
+:root{
+    --cor--header: #23003E;
+}
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.inho{
+    background-color: var(--cor--header);
+    width: 20%;
+    height: 100vh;
+    color: white;
+    padding: 20px;
+}
+
+/* main */
+
+.toddynho{
+    background-image: url(img/fundocal.PNG);
+    width: 100%;
+    height: 100vh;
+}
+
+.reconhece{
+    background-color: var(--cor--header);
+    border-radius: 17px;
+    width: 100px;
+    color: white;
+}
+
+
+#tudi{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
